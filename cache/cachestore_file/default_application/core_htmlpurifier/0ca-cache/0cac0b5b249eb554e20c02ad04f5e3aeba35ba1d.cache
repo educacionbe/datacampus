@@ -1,0 +1,19 @@
+s:672:"<p>Puedes desactivar la búsqueda y activar los iconos de redes sociales en su lugar.
+Para configurar los iconos, introduce una lista delimitada en el campo "Lista de iconos sociales".
+El formato debe ser:</p>
+
+<p>url|titulo|icono</p>
+
+<p>Ejemplo:</p>
+
+<pre>
+http://localhost/moodle/course/search.php|Buscar en Moodle|fa-search
+http://facebook.com/|Facebook|fa-facebook-square
+http://twitter.com/|Twitter|fa-twitter-square
+http://instagram.com|Instagram|fa-instagram
+http://example.com|Mi Web|fa-globe
+</pre>
+
+<p><br />
+El listado de iconos se encuentra en: <a href="http://fortawesome.github.io/Font-Awesome/icons">http://fortawesome.github.io/Font-Awesome/icons</a></p>
+";

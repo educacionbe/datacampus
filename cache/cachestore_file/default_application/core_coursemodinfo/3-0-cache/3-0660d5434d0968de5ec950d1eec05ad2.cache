@@ -1,0 +1,143 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:2:{i:2;O:8:"stdClass":10:{s:2:"id";s:1:"2";s:2:"cm";s:1:"2";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"4";s:6:"module";s:1:"9";s:5:"added";s:10:"1449465838";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:4:"name";s:9:"Novedades";}i:25;O:8:"stdClass":10:{s:2:"id";s:1:"1";s:2:"cm";s:2:"25";s:3:"mod";s:4:"page";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"4";s:6:"module";s:2:"15";s:5:"added";s:10:"1451511410";s:7:"visible";s:1:"1";s:10:"visibleold";s:1:"1";s:4:"name";s:6:"Prueba";}}s:12:"sectioncache";a:11:{i:0;O:8:"stdClass":4:{s:2:"id";s:1:"4";s:4:"name";N;s:7:"summary";s:2577:"<div style="background-image: url('https://static.platzi.com/media/courses/carrera-disenio-cover.jpg');
+ padding-top: 15px;
+    padding-bottom: 25px;" id="photoshop">
+
+<div style="color: #fff;
+    padding: 0 1em;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    padding-top: 2px;" class="cursos-adobe-primary">
+
+<div style="-webkit-flex-shrink: 0;     -webkit-flex-shrink: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;" class="adobe-photoshop"><img src="https://github.com/educacionbe/resource/blob/master/designs-png/portales/photoshop.png?raw=true" alt="photoshop.png" width="155" height="155" data-reactid=".wpidts0pa8.1.0.0.0.$=10.0.$4.0.0.0.0"></div>
+
+<div style="
+    -moz-box-flex: 1;
+    -o-box-flex: 1;
+    box-flex: 1;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: box;
+    -moz-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -ms-flex-direction: column;
+    padding-left: 8px;
+" class="cursos-adobephotoshop">
+
+<h3 style="    text-transform: uppercase;
+    line-height: 1;
+    text-decoration: none;
+    background: none;
+    color: white;
+    border-left: none;
+    border-right: none;
+    text-align: left;
+    font-size: 21px;" class="Career-name">Introducción aL RETOQUE FOTOGRÁFICO CON Photoshop&nbsp;</h3>
+
+<p style="    margin-top: 5px;
+    color: #FFF;
+    margin-bottom: 0;
+    line-height: 1.5;
+    padding-bottom: 5px;" class="Career-textHeader"><span style="color: rgb(255, 255, 255); font-family: 'Open Sans', sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; ">Corrige y mejora fotografías digitales, r</span>etoca y repara imágenes, manipula el color, la totalidad, la resolución y los textos en Photoshop. Realiza determinados funciones en el tratamiento de imágenes. Rotar, escalar, recortar imágenes fotográficas.</p>
+</div></div></div>";s:12:"availability";N;}i:1;O:8:"stdClass":4:{s:2:"id";s:2:"16";s:4:"name";s:9:"Módulo I";s:7:"summary";s:2037:"<div style="
+    background: #2D2765;
+    color: #fff;
+    padding: 0 1em;
+    display: box;
+    display: flex;
+    " class="cursos-excel">
+<div style="    -webkit-flex-shrink: 0;
+    flex-shrink: 0;" class="microsoft-excel"><img src="https://github.com/educacionbe/resource/blob/master/designs-png/proyecto/photoshop/entorno-psd.png?raw=true" alt="entorno-psd.png" width="123" height="123"></div>
+
+<div style="
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -o-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    display: 
+    
+    
+    
+    
+    
+    -webkit-box;
+    display: 
+    
+    
+    
+    
+    
+    -moz-box;
+    display: 
+    
+    
+    
+    
+    
+    -webkit-flex;
+    display: 
+    
+    
+    
+    
+    
+    -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -o-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1em;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    text-decoration: none;
+    background-image: url(&quot;https://github.com/educacionbe/resource/blob/master/designs-png/fondo-transparente/negocios.png?raw=true&quot;);
+    " class="cursos-body">
+
+<p style="    margin-top: 5px;" class="Career-textHeader">Carrera de Diseño Gráfico</p>
+
+<h3 style="font-size: 20px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-decoration: none;
+    background: none;
+    color: white;
+    border-left: none;
+    border-right: none;
+    text-align: left;" class="Career-name">Entorno de photoshop CS6</h3>
+
+<p class="Career-textHeader-2">2 Cursos disponibles</p>
+</div>
+</div>";s:12:"availability";N;}i:2;O:8:"stdClass":3:{s:2:"id";s:2:"17";s:4:"name";N;s:12:"availability";N;}i:3;O:8:"stdClass":3:{s:2:"id";s:2:"18";s:4:"name";N;s:12:"availability";N;}i:4;O:8:"stdClass":3:{s:2:"id";s:2:"19";s:4:"name";N;s:12:"availability";N;}i:5;O:8:"stdClass":3:{s:2:"id";s:2:"20";s:4:"name";N;s:12:"availability";N;}i:6;O:8:"stdClass":3:{s:2:"id";s:2:"21";s:4:"name";N;s:12:"availability";N;}i:7;O:8:"stdClass":3:{s:2:"id";s:2:"22";s:4:"name";N;s:12:"availability";N;}i:8;O:8:"stdClass":3:{s:2:"id";s:2:"23";s:4:"name";N;s:12:"availability";N;}i:9;O:8:"stdClass":3:{s:2:"id";s:2:"24";s:4:"name";N;s:12:"availability";N;}i:10;O:8:"stdClass":3:{s:2:"id";s:2:"25";s:4:"name";N;s:12:"availability";N;}}s:9:"shortname";s:16:"APHOTOSHOP-A-CS5";s:8:"fullname";s:30:"Adobe Photoshop CS6 - Avanzado";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1453518453";}
